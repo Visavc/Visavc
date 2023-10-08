@@ -5,7 +5,5 @@ We are committed to developing open-source threat hunting tools to meet your hun
 - 📫 How to reach me: support@visavc.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/visavc)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=visavc)](https://github.com/ryo-ma/github-profile-trophy)
 
